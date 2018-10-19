@@ -1,0 +1,16 @@
+{
+  "name": "release_notes_generator",
+  "version": "0.0.1",
+  "description": "Automatically generate change log from your milestone.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Cristian Golea",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "node-fetch": "^2.2.0",
+    "parse-link-header": "^1.0.1"
+  }
+}
