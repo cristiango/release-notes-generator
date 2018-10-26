@@ -33,10 +33,9 @@ It's time to create this token! (Or, wait an hour for GitHub to reset your unaut
 
 
 ## Running
-Milestone title can be passed as parameter
+See the full help
 
-    npm start -- {milestoneTitle}
-Output can be found in `output.md` file in the root directory
+    npm start
 
 ### Alternatives
 
